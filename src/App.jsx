@@ -475,7 +475,7 @@ const EVENTS = [
   { year: "2020", title: "The Proposal", desc: "The moment he formally asked for her hand. A promise made to walk this path together with the blessing of our families.", side: "right" },
   { year: "2022", title: "Fatiha Reading", desc: "A sacred milestone where our families gathered to recite the Fatiha, sealing our commitment with faith and love.", side: "left" },
   { year: "2023", title: "Engagement", desc: "Under a canopy of stars, we exchanged rings and officially became each other's 'forever.' The night our dream felt real.", side: "right" },
-  { year: "2025", title: "Our Engagement  Day", desc: "The beginning of our greatest chapter. Hand in hand, we step into a new life, and we are honored to have you witness our 'I do.'", side: "left" },
+  { year: "2026", title: "Our Engagement  Day", desc: "The beginning of our greatest chapter. Hand in hand, we step into a new life, and we are honored to have you witness our 'I do.'", side: "left" },
 ]
 
 // Mobile timeline item — line on far left, cards all on right
@@ -764,7 +764,7 @@ function PuzzleSection() {
           </p>
           <p style={{ color: C.muted, fontSize: 12, fontFamily: "'Josefin Sans',sans-serif", fontWeight: 300, letterSpacing: 1 }}>— Antoine de Saint-Exupéry</p>
           <div style={{ width: 36, height: 1, background: C.gold, marginTop: 4 }} />
-          <p style={{ color: C.sage, fontSize: 11, fontFamily: "'Josefin Sans',sans-serif", fontWeight: 300, letterSpacing: 2 }}>A &amp; M · 2025</p>
+          <p style={{ color: C.sage, fontSize: 11, fontFamily: "'Josefin Sans',sans-serif", fontWeight: 300, letterSpacing: 2 }}>A &amp; M · 2026</p>
         </div>
         <AnimatePresence>
           {!revealed && (
